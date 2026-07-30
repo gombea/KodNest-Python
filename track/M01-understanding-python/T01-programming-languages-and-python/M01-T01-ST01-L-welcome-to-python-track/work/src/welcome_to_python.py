@@ -1,1 +1,2 @@
-#write you code here
+print ("hellow world")
+print ("Welcome to KodNest future Developers")
