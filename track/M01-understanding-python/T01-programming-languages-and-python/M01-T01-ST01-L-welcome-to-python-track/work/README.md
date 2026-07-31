@@ -2,26 +2,31 @@
 
 ## My Name
 
-Write your name.
+Vaishnavi
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learnt to write psedocode for the problems and logical thinking
+I learnt to apply this for solve the questions
+
 
 ## Why I Selected Python
-
-Write your reason in your own words.
+because i alredy have prior experience in python so i took python
+Its easy to learn and versatile language.
+easy to understand the code
 
 ## My Career Goal
 
-Write the role you want to achieve.
+Career goal to work in a product based company 
+Solve the problems in the world using coding andAI.
+
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means:Instructing a computer to perform a specific task or set of instructions.
 
-Python is:
+Python is:A high-level, interpreted programming language known for its simplicity and readability.
 
-In this track, I will learn:
+In this track, I will learn:Syntax, data types, control structures, functions, and object-oriented programming.
