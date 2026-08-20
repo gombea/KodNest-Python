@@ -22,7 +22,7 @@ class StudentProfile:
 
     def __str__(self):
         return f"name:{self.student_name},student_id:{self.student_id},student_course:{self.student_course},score:{self.__score}"
-# Read input
+
 sid = int(input("Enter student ID: "))
 name = input("Enter name: ")
 course = input("Enter course: ")
