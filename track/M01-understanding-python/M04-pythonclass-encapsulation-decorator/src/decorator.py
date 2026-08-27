@@ -15,9 +15,7 @@ class Student:
     def name(self):
         return self.__name
 
-    
 
-    
 s1 = Student(101,"vaishnavi")
 print(s1.roll)
 print(s1.name)

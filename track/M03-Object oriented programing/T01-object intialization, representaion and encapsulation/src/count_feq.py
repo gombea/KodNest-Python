@@ -5,4 +5,5 @@ def count_freq(str,target):
           count += 1
           print(count)
 
+
 count_freq("india", "i")
